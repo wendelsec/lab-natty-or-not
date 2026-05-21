@@ -20,19 +20,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Análise de Dados com IA ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Dados por si só não dizem nada, é a análise que transforma números em decisões. Neste projeto, explorei como a Inteligência Artificial está mudando a forma como lidamos com dados no dia a dia das organizações: tornando processos mais rápidos, revelando padrões que o olho humano não enxergaria e colocando o poder da análise nas mãos de qualquer pessoa, não só dos especialistas. Do início ao fim do processo analítico, a IA aparece não como substituta do profissional, mas como uma parceira que amplifica o que já fazemos bem.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+-Claude.ai (Para criação da base textual)
+-Gamma.app (Para criação da apresentação em slides)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Fiz pesquisas dentro da minha área de interesse usando o Claude.AI. A pesquisa se tratou de "como melhorar a produtividade usando IA", adaptei a pesquisa para análise de dados usando a Inteligência Artificial como apoio. Após a montagem do contexto, criei o prompt e colei o texto dentro do Gamma.app, onde foi gerado da forma em que se encontra. 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Uma apresentação em slide que levaria horas ou dias para ser criada, fiz em minutos. Além do conteúdo apresentado, o layout ficou bem feito e combinou bem com o assunto!
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
@@ -45,6 +46,8 @@ Comente sobre o desafio de criar algo 'natty' com IA.
 - [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
 ## Links Interessantes
+
+https://gamma.app/docs/Analise-de-Dados-com-IA-87r5k8gh1fiqp73 (Link do Projeto)
 
 [Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
 
